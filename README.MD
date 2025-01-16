@@ -1,4 +1,4 @@
-##Projeto Vídeo Gerado por IAs
+Projeto Vídeo Gerado por IAs
 
 Projeto com o objetivo de gerar um vídeo utilizando ferramentas de IA através de prompts mais trabalhosos.
 💻 Tecnologias utilizadas no projeto
@@ -6,7 +6,7 @@ Projeto com o objetivo de gerar um vídeo utilizando ferramentas de IA através 
 •	Vidnoz
 •	Capcut
 
-##Vídeo
+Vídeo
 
 ✨ Como foi feito?
 •	Roteiro gerado via chatgpt,
