@@ -1,7 +1,6 @@
 Projeto Vídeo Gerado por IAs
 
-Projeto com o objetivo de gerar um vídeo utilizando ferramentas de IA através de prompts mais trabalhosos.
-
+Projeto com o objetivo de gerar um vídeo utilizando ferramentas de IA.
 
 💻 Tecnologias utilizadas no projeto
 •	Bate-papoGPT
